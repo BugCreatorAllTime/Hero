@@ -57,7 +57,7 @@ public class AssetMgr
 				System.Type type = typeof(T);
 				int len = assets.Count;
 				for (int i = 0; i < len; ++i) {
-					obj = assets[i].Load(name, type);
+					obj = assets[i].LoadAsset(name, type);
 					if (obj != null)
 						break;
 				}
@@ -83,7 +83,7 @@ public class AssetMgr
 				int len = assets.Count;
 				for(int i = 0; i < len; ++i)
 				{
-					AssetBundleRequest bundlReq = assets[i].LoadAsync(name,type);
+					AssetBundleRequest bundlReq = assets[i].LoadAssetAsync(name,type);
 					yield return bundlReq;
 					obj = bundlReq.asset;
 					if(obj != null)
@@ -146,7 +146,7 @@ public class AssetMgr
 	public void Trace() {
 		foreach(AssetBundle asset in assets)
 		{
-			Object[] objs = asset.LoadAll();
+			Object[] objs = asset.LoadAllAssets();
 			foreach(Object obj in objs)
 			{
 				Debug.Log(obj.name + " : " + obj);
