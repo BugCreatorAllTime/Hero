@@ -32,7 +32,7 @@ namespace Facebook
         protected override void OnAwake()
         {
             // bootstrap the canvas facebook for native dialogs
-            StartCoroutine(FB.RemoteFacebookLoader.LoadFacebookClass("CanvasFacebook", OnDllLoaded));
+            //StartCoroutine(FB.RemoteFacebookLoader.LoadFacebookClass("CanvasFacebook", OnDllLoaded));
         }
 
         public override void Init(
@@ -230,11 +230,11 @@ namespace Facebook
                 var userData = (Dictionary<string, object>) MiniJSON.Json.Deserialize(responses[0]);
                 var appData = (Dictionary<string, object>) MiniJSON.Json.Deserialize(responses[1]);
 
-                if (FB.AppId != (string) appData["id"])
+                /*if (FB.AppId != (string) appData["id"])
                 {
                     BadAccessToken("Access token is not for current app id: " + FB.AppId);
                     return;
-                }
+                }*/
 
                 userId = (string)userData["id"];
                 fb.UserId = userId;

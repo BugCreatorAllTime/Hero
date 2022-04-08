@@ -14,15 +14,15 @@ public class FacebookController : MonoBehaviour {
 	void Awake(){
 		__sharedInstance = this;
 
-		if (!FB.IsInitialized) {
+		/*if (!FB.IsInitialized) {
 			FB.Init(delegate{
 				Debug.Log("FB Init");
 			});
-		}
+		}*/
 	}
 
 	public void Login(LoginCallback loginDelegate){
-		if (!FB.IsLoggedIn) {
+		/*if (!FB.IsLoggedIn) {
 			FB.Login ("", delegate(FBResult result) {
 				if (FB.IsLoggedIn) {
 					loginDelegate (FB.AccessToken);
@@ -32,7 +32,7 @@ public class FacebookController : MonoBehaviour {
 			});
 		} else {
 			loginDelegate (FB.AccessToken);
-		}
+		}*/
 	}
 
 	// Use this for initialization

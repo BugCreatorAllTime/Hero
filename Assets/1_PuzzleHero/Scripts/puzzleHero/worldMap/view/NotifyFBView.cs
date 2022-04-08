@@ -25,12 +25,12 @@ public class NotifyFBView : IngameBaseView {
 		SetupButton(closeNotify);
 		CacheObjectForEventHandling(closeNotify.gameObject);
 
-		if(!FB.IsLoggedIn)
+		/*if(!FB.IsLoggedIn)
 		{
 			fbLoggingButton.normalSprite = "FbLogin";
 		} else {
 			fbLoggingButton.normalSprite = "FbLogout";
-		}
+		}*/
 		
 		gameObject.SetActive(false);
 	}

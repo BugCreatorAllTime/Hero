@@ -50,14 +50,7 @@ static public class NGUITools
 	/// Helper function -- whether the disk access is allowed.
 	/// </summary>
 
-	static public bool fileAccess
-	{
-		get
-		{
-			return Application.platform != RuntimePlatform.WindowsWebPlayer &&
-				Application.platform != RuntimePlatform.OSXWebPlayer;
-		}
-	}
+	
 
 	/// <summary>
 	/// Play the specified audio clip.
@@ -1256,7 +1249,7 @@ static public class NGUITools
 #if UNITY_WEBPLAYER || UNITY_FLASH || UNITY_METRO || UNITY_WP8
 		return false;
 #else
-		if (!NGUITools.fileAccess) return false;
+		//if (!NGUITools.fileAccess) return false;
 
 		string path = Application.persistentDataPath + "/" + fileName;
 
@@ -1293,7 +1286,7 @@ static public class NGUITools
 #if UNITY_WEBPLAYER || UNITY_FLASH || UNITY_METRO || UNITY_WP8
 		return null;
 #else
-		if (!NGUITools.fileAccess) return null;
+		//if (!NGUITools.fileAccess) return null;
 
 		string path = Application.persistentDataPath + "/" + fileName;
 

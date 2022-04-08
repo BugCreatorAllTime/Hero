@@ -47,12 +47,12 @@ public class SettingsPopupView : IngameBaseView
 		SetupButton(fbLoggingButton);
 		CacheObjectForEventHandling(fbLoggingButton.gameObject);
 		
-		if(!FB.IsLoggedIn)
+		/*if(!FB.IsLoggedIn)
 		{
 			fbLoggingButton.normalSprite = "FbLogin";
 		} else {
 			fbLoggingButton.normalSprite = "FbLogout";
-		}
+		}*/
 
 		gameObject.SetActive(false);
 	}

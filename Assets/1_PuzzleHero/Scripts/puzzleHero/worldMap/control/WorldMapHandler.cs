@@ -56,7 +56,7 @@ public class WorldMapHander {
 				string url = Application.platform == UnityEngine.RuntimePlatform.Android ? androidUrl : iosUrl;
 				Application.OpenURL(url);
 				break;
-			case MainScreenObjectName.fbLoggingToggle:
+			/*case MainScreenObjectName.fbLoggingToggle:
 				if(!fbHandler.GetIsClickButtonLogFaceBook())
 				{
 					if (!FB.IsLoggedIn)
@@ -83,7 +83,7 @@ public class WorldMapHander {
 				}
 				break;
 			case MainScreenObjectName.logoutButton:
-				LogoutAccount();
+				LogoutAccount();*/
 				break;
 		}
 		soundMng.PlaySound (SoundName.BUTTON_CLICK);

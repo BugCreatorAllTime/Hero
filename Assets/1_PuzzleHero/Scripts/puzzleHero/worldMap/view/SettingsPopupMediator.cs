@@ -56,12 +56,12 @@ public class SettingsPopupMediator : Mediator
 
 	public void SetStateButtonLoginFaceBookSettingPopup()
 	{
-		if(!FB.IsLoggedIn)
+		/*if(!FB.IsLoggedIn)
 		{
 			settingsPopupView.fbLoggingButton.normalSprite = "FbLogin";
 		} else {
 			settingsPopupView.fbLoggingButton.normalSprite = "FbLogout";
-		}
+		}*/
 	}
 
 	private void OnLoginFaceBook()

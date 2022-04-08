@@ -56,28 +56,28 @@ public class FbHandler
 
 	public void Init()
 	{
-		FB.Init(SetInit, OnHideUnity);
+		//FB.Init(SetInit, OnHideUnity);
 	}
 
 	public void LogIn()
 	{
-		if (!FB.IsLoggedIn)
+		/*if (!FB.IsLoggedIn)
 		{
 			isClickLogFacebook = true;
 			FB.Login("public_profile,user_friends,email,publish_actions", LoginCallback);
-		}
+		}*/
 	}
 
 	public void LogOut()
 	{
-		if (FB.IsLoggedIn)
+		/*if (FB.IsLoggedIn)
 		{
 			isClickLogFacebook = true;
 			FB.Logout();
 			ResetState();
 			showInfoFbSignal.Dispatch(new List<InfoUserFBData>());
 			NotifyLogoutFaceBook ();
-		}
+		}*/
 	}
 
 	private void ResetState()
@@ -106,7 +106,7 @@ public class FbHandler
 	{
 		WWWForm data = new WWWForm();
 		data.AddField("score", score);
-		FB.API("/v2.0/me/scores", Facebook.HttpMethod.POST, null, data);
+		//FB.API("/v2.0/me/scores", Facebook.HttpMethod.POST, null, data);
 	}
 
 	private UIAtlas PackTextures()
@@ -148,7 +148,7 @@ public class FbHandler
 	private void SetInit()
 	{
 //		Utils.Log("SetInit");
-		if (FB.IsLoggedIn)
+		/*if (FB.IsLoggedIn)
 		{
 //			Utils.Log("Already logged in");
 			OnLoggedIn();
@@ -157,7 +157,7 @@ public class FbHandler
 		else
 		{
 			loadingState = LoadingState.DONE;
-		}
+		}*/
 	}
 
 	private void OnHideUnity(bool isGameShown)
@@ -177,12 +177,12 @@ public class FbHandler
 
 	void LoginCallback(FBResult result)
 	{
-		if (FB.IsLoggedIn)
+		/*if (FB.IsLoggedIn)
 		{
 			OnLoggedIn();
 		} else {
 			isClickLogFacebook = false;
-		}
+		}*/
 	}
 
 	string meQueryString = "/v2.0/me?fields=id,first_name";
@@ -193,7 +193,7 @@ public class FbHandler
 		infoFBService.DestroyAtlas ();
 //		Utils.Log("Logged in. ID: " + FB.UserId);
 		// Reqest player info and profile picture
-		FB.API(meQueryString, Facebook.HttpMethod.GET, APICallback);
+		//FB.API(meQueryString, Facebook.HttpMethod.GET, APICallback);
 		LoadPictureAPI(Utils.GetPictureURL("me", avatarWidth, avatarHeight), MyPictureCallback);
 		// Load high scores
 		QueryScores();
@@ -202,7 +202,7 @@ public class FbHandler
 
 	public void QueryScores()
 	{
-		FB.API("/app/scores?fields=score,user.limit(" + friendLimit + ")", Facebook.HttpMethod.GET, ScoresCallback);
+		//FB.API("/app/scores?fields=score,user.limit(" + friendLimit + ")", Facebook.HttpMethod.GET, ScoresCallback);
 	}
 
 	void APICallback(FBResult result)
@@ -212,7 +212,7 @@ public class FbHandler
 		{
 //			Utils.LogError(result.Error);
 			// Let's just try again
-			FB.API(meQueryString, Facebook.HttpMethod.GET, APICallback);
+			//FB.API(meQueryString, Facebook.HttpMethod.GET, APICallback);
 			return;
 		}
 		profile = Utils.DeserializeJSONProfile(result.Text);
@@ -262,12 +262,12 @@ public class FbHandler
 			string userId = (string) user["id"];
 			string username = (string) user["name"];
 			friendScores[userId] = userData;
-			if (string.Equals(userId, FB.UserId))
+			/*if (string.Equals(userId, FB.UserId))
 			{
 				// This entry is the current player
 				int playerHighScore = getScoreFromEntry(entry);
 //				Utils.Log("Local players score on server is " + playerHighScore);
-			}
+			}*/
 			scores.Add(entry);
 			int friendData = friendScores[userId];
 			UIAtlas atlas = infoFBService.GetAtlas();
@@ -374,7 +374,7 @@ public class FbHandler
 
 	void LoadPictureAPI(string url, LoadPictureCallback callback)
 	{
-		FB.API(url, Facebook.HttpMethod.GET, result =>
+		/*FB.API(url, Facebook.HttpMethod.GET, result =>
 		{
 			if (result.Error != null)
 			{
@@ -383,7 +383,7 @@ public class FbHandler
 			}
 			var imageUrl = Utils.DeserializePictureURLString(result.Text);
 			routineRunner.StartCoroutine(LoadPictureEnumerator(imageUrl, callback));
-		});
+		});*/
 	}
 
 	void LoadPictureURL(string url, LoadPictureCallback callback)

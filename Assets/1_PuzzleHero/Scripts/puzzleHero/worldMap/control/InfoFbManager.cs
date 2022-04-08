@@ -45,10 +45,10 @@ public class InfoFbManager {
 
 	public void AddCountToCheckUpdateInfoFriend()
 	{
-		if(infoUserService.IsUpdateInfo() && FB.IsLoggedIn)
+		/*if(infoUserService.IsUpdateInfo() && FB.IsLoggedIn)
 		{
 			HideUser();
 			fbHandler.QueryScores();
-		}
+		}*/
 	}
 }
