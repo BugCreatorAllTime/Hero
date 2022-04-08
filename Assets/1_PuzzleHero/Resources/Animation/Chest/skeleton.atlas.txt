@@ -1,0 +1,69 @@
+
+skeleton.png
+size: 1010,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anchient
+  rotate: false
+  xy: 216, 362
+  size: 163, 147
+  orig: 164, 147
+  offset: 1, 0
+  index: -1
+chain
+  rotate: false
+  xy: 863, 372
+  size: 147, 137
+  orig: 147, 137
+  offset: 0, 0
+  index: -1
+chain0
+  rotate: false
+  xy: 216, 224
+  size: 147, 136
+  orig: 147, 136
+  offset: 0, 0
+  index: -1
+chestn
+  rotate: false
+  xy: 2, 300
+  size: 212, 209
+  orig: 224, 229
+  offset: 7, 19
+  index: -1
+ebony
+  rotate: false
+  xy: 381, 367
+  size: 159, 142
+  orig: 167, 146
+  offset: 5, 0
+  index: -1
+knightchest
+  rotate: false
+  xy: 542, 367
+  size: 159, 142
+  orig: 159, 142
+  offset: 0, 0
+  index: -1
+paladin
+  rotate: false
+  xy: 2, 129
+  size: 167, 169
+  orig: 169, 169
+  offset: 2, 0
+  index: -1
+slash
+  rotate: true
+  xy: 2, 2
+  size: 125, 150
+  orig: 125, 150
+  offset: 0, 0
+  index: -1
+wood
+  rotate: false
+  xy: 703, 367
+  size: 158, 142
+  orig: 164, 143
+  offset: 3, 0
+  index: -1

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: ghost.atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: f6e4180b9e0cc45148a364ff1c5ec6e4, type: 3}
+  materials:
+  - {fileID: 2100000, guid: bb169d45c25c245489fb539232ebd7c9, type: 2}

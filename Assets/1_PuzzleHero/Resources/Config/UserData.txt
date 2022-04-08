@@ -1,0 +1,67 @@
+{
+  "Name": "Tung",
+  "UID": "102",
+  "ListItemData": [
+    {
+      "Id": 1004,
+      "Lv": 1,
+      "SetId": 2
+    },
+    {
+      "Id": 1005,
+      "Lv": 1,
+      "SetId": 2
+    },
+    {
+      "Id": 1006,
+      "Lv": 1,
+      "SetId": 2
+    },
+    {
+      "Id": 1007,
+      "Lv": 1,
+      "SetId": 3
+    },
+    {
+      "Id": 1008,
+      "Lv": 1,
+      "SetId": 3
+    },
+    {
+      "Id": 1009,
+      "Lv": 1,
+      "SetId": 3
+    },
+    {
+      "Id": 1010,
+      "Lv": 1,
+      "SetId": 4
+    },
+    {
+      "Id": 1011,
+      "Lv": 1,
+      "SetId": 4
+    },
+    {
+      "Id": 1012,
+      "Lv": 1,
+      "SetId": 4
+    }
+  ],
+  "EquippedItemData": [
+  ],
+  "CharacterData": {
+    "id": 1,
+    "lv": 1
+  },
+  "energy": 12,
+  "currentStepTownTutorial": -3 ,
+  "currentLevel": 1,
+  "levelPercent": 0.0,
+  "gold": 0,
+  "gem": 0,
+  "flagSave": 18431,
+  "numberItemShop": 0,
+  "soundValue":1,
+  "musicValue": 1
+} 

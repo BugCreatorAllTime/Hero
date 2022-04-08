@@ -1,0 +1,40 @@
+
+skeleton.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+co
+  rotate: false
+  xy: 407, 165
+  size: 280, 282
+  orig: 280, 282
+  offset: 0, 0
+  index: -1
+ken
+  rotate: false
+  xy: 2, 163
+  size: 403, 284
+  orig: 450, 344
+  offset: 40, 44
+  index: -1
+shield
+  rotate: true
+  xy: 689, 34
+  size: 185, 218
+  orig: 185, 218
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 2, 2
+  size: 391, 159
+  orig: 391, 159
+  offset: 0, 0
+  index: -1
+than kiem
+  rotate: true
+  xy: 689, 221
+  size: 226, 316
+  orig: 226, 316
+  offset: 0, 0
+  index: -1

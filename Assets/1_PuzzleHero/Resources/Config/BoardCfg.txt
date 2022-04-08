@@ -1,0 +1,1 @@
+{"BoardBg":{"2":{"FirstCell":"FirstCell2","Background":"Textures/Map/Map3/Background1/BoardBg","SecondCell":"SecondCell2"},"1":{"FirstCell":"FirstCell1","Background":"Textures/Map/Map3/Background1/BoardBg","SecondCell":"SecondCell1"},"0":{"FirstCell":"FirstCell","Background":"Textures/Map/Map1/Background1/BoardBg","SecondCell":"SecondCell"}}}

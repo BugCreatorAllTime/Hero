@@ -1,0 +1,18 @@
+{
+  "Dungeon1": {
+    "Name": "Hell",
+    "Monster": [
+      {
+        "Name": "SlimeKing",
+        "Stat": {
+          "baseStat": {
+            "hp": 1000,
+            "damage": 100,
+            "turn": 5
+          }
+        }
+      }
+    ]
+  },
+  "Dungeon2": {}
+}

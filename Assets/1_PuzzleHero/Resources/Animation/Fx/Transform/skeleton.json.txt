@@ -1,0 +1,373 @@
+{
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" },
+	{ "name": "stealPotionBoss_0", "parent": "root", "scaleX": 1.227, "scaleY": 1.227 }
+],
+"slots": [
+	{ "name": "stealPotionBoss_0", "bone": "stealPotionBoss_0", "attachment": "stealPotionBoss_0" },
+	{ "name": "1", "bone": "bone", "attachment": "dafs" }
+],
+"skins": {
+	"default": {
+		"stealPotionBoss_0": {
+			"stealPotionBoss_0": { "width": 94, "height": 93 },
+			"stealPotionBoss_1": { "width": 94, "height": 93 },
+			"stealPotionBoss_2": { "width": 94, "height": 93 },
+			"stealPotionBoss_3": { "width": 94, "height": 93 },
+			"stealPotionBoss_4": { "width": 94, "height": 93 },
+			"stealPotionBoss_5": { "width": 94, "height": 93 }
+		}
+	},
+	"AncientChest": {
+		"1": {
+			"dafs": { "name": "AncientChest", "width": 95, "height": 95 }
+		}
+	},
+	"Attack": {
+		"1": {
+			"dafs": { "name": "6", "width": 90, "height": 90 }
+		}
+	},
+	"Defend": {
+		"1": {
+			"dafs": { "name": "8", "width": 90, "height": 90 }
+		}
+	},
+	"EbonyChest": {
+		"1": {
+			"dafs": { "name": "EbonyChest", "width": 95, "height": 95 }
+		}
+	},
+	"GladiatorChest": {
+		"1": {
+			"dafs": { "name": "GladiatorChest", "width": 95, "height": 95 }
+		}
+	},
+	"Gold": {
+		"1": {
+			"dafs": { "name": "5", "width": 90, "height": 90 }
+		}
+	},
+	"Heal": {
+		"1": {
+			"dafs": { "name": "1", "width": 90, "height": 90 }
+		}
+	},
+	"PaladinChest": {
+		"1": {
+			"dafs": { "name": "PaladinChest", "width": 95, "height": 95 }
+		}
+	},
+	"Skill": {
+		"1": {
+			"dafs": { "name": "7", "width": 90, "height": 90 }
+		}
+	},
+	"TravelerCheast": {
+		"1": {
+			"dafs": { "name": "TravelerCheast", "width": 95, "height": 95 }
+		}
+	},
+	"WarriorChest": {
+		"1": {
+			"dafs": { "name": "WarriorChest", "width": 95, "height": 95 }
+		}
+	}
+},
+"animations": {
+	"Active": {
+		"slots": {
+			"stealPotionBoss_0": {
+				"attachment": [
+					{ "time": 0, "name": "stealPotionBoss_0" },
+					{ "time": 0.2666, "name": "stealPotionBoss_1" },
+					{ "time": 0.3666, "name": "stealPotionBoss_2" },
+					{ "time": 0.4666, "name": "stealPotionBoss_3" },
+					{ "time": 0.5666, "name": "stealPotionBoss_4" },
+					{ "time": 0.6666, "name": "stealPotionBoss_5" }
+				],
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1666, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				]
+			},
+			"1": {
+				"attachment": [
+					{ "time": 0, "name": "dafs" }
+				],
+				"color": [
+					{ "time": 0, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.6666, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.1666, "angle": 0 },
+					{ "time": 0.5, "angle": 92.85 },
+					{ "time": 0.6666, "angle": 138.45 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1666, "x": 1, "y": 1 },
+					{ "time": 0.5, "x": 0.667, "y": 0.667 },
+					{ "time": 0.6666, "x": 0.249, "y": 0.249 }
+				]
+			},
+			"stealPotionBoss_0": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.999, "y": 0.999 },
+					{ "time": 0.1666, "x": 1.175, "y": 1.175 }
+				]
+			}
+		}
+	},
+	"Begin": {
+		"slots": {
+			"stealPotionBoss_0": {
+				"attachment": [
+					{ "time": 0, "name": "stealPotionBoss_0" },
+					{ "time": 0.1666, "name": "stealPotionBoss_0" }
+				],
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1666, "color": "ffffff00" }
+				]
+			},
+			"1": {
+				"attachment": [
+					{ "time": 0, "name": "dafs" },
+					{ "time": 0.1666, "name": "dafs" }
+				],
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1666, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.1666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1666, "x": 1, "y": 1 }
+				]
+			},
+			"stealPotionBoss_0": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.1666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.999, "y": 0.999, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0.999, "y": 0.999 }
+				]
+			}
+		}
+	},
+	"Counter": {
+		"slots": {
+			"stealPotionBoss_0": {
+				"attachment": [
+					{ "time": 0, "name": "stealPotionBoss_0" },
+					{ "time": 0.1666, "name": "stealPotionBoss_0" }
+				],
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1666, "color": "ffffff00" }
+				]
+			},
+			"1": {
+				"attachment": [
+					{ "time": 0, "name": "dafs" },
+					{ "time": 0.1666, "name": "dafs" }
+				],
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1666, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.1666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1666, "x": 1, "y": 1 }
+				]
+			},
+			"stealPotionBoss_0": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.1666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.999, "y": 0.999, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0.999, "y": 0.999 }
+				]
+			}
+		}
+	},
+	"End": {
+		"slots": {
+			"stealPotionBoss_0": {
+				"attachment": [
+					{ "time": 0, "name": "stealPotionBoss_5" },
+					{ "time": 0.1333, "name": "stealPotionBoss_4" },
+					{ "time": 0.2333, "name": "stealPotionBoss_3" },
+					{ "time": 0.3666, "name": "stealPotionBoss_2" },
+					{ "time": 0.5, "name": "stealPotionBoss_1" },
+					{ "time": 0.6, "name": "stealPotionBoss_1" },
+					{ "time": 0.7333, "name": "stealPotionBoss_2" },
+					{ "time": 0.9, "name": "stealPotionBoss_3" },
+					{ "time": 1, "name": "stealPotionBoss_5" }
+				],
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.7333, "color": "ffffffff" },
+					{ "time": 1, "color": "ffffff00" }
+				]
+			},
+			"1": {
+				"attachment": [
+					{ "time": 0, "name": "dafs" },
+					{ "time": 0.1333, "name": "dafs" }
+				],
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.1333, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": -81.04 },
+					{ "time": 0.1333, "angle": -128.42 },
+					{ "time": 0.3, "angle": 174.54 },
+					{ "time": 0.5, "angle": 90.86 },
+					{ "time": 0.8, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1333, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.253, "y": 0.253 },
+					{ "time": 0.1333, "x": 0.284, "y": 0.284 },
+					{ "time": 0.6, "x": 1, "y": 1 }
+				]
+			},
+			"stealPotionBoss_0": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.7333, "angle": 0, "curve": "stepped" },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.7333, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.117, "y": 0.117 },
+					{ "time": 0.7333, "x": 1.175, "y": 1.175 },
+					{ "time": 1, "x": 1.486, "y": 1.486 }
+				]
+			}
+		}
+	},
+	"Idle": {
+		"slots": {
+			"stealPotionBoss_0": {
+				"attachment": [
+					{ "time": 0, "name": "stealPotionBoss_0" },
+					{ "time": 0.1666, "name": "stealPotionBoss_0" }
+				],
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1666, "color": "ffffff00" }
+				]
+			},
+			"1": {
+				"attachment": [
+					{ "time": 0, "name": "dafs" },
+					{ "time": 0.1666, "name": "dafs" }
+				],
+				"color": [
+					{ "time": 0, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.1666, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.1666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.1666, "x": 1, "y": 1 }
+				]
+			},
+			"stealPotionBoss_0": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.1666, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0.999, "y": 0.999, "curve": "stepped" },
+					{ "time": 0.1666, "x": 0.999, "y": 0.999 }
+				]
+			}
+		}
+	}
+}
+}

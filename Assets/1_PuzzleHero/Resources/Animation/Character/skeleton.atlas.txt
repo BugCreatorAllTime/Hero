@@ -1,0 +1,1839 @@
+
+skeleton.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+acinaces
+  rotate: false
+  xy: 923, 435
+  size: 86, 88
+  orig: 95, 95
+  offset: 4, 3
+  index: -1
+adventure arm1 lower
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+female.samurai leg2 upper
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+samurai helm back
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+shield
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+viking arm2 upper
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+bronze helm back
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+female.samurai leg1 upper
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+armor arm2 upper
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+offensive leg2 upper
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+viking helm back
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+paladin helm back
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+male.adventure helm back
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+offensive leg1 upper
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+armor arm1 upper
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+assassin helm back
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+knight helm back
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+armor arm1 lower
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+adventure arm2 lower
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+armor arm2 lower
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+helm back
+  rotate: false
+  xy: 270, 542
+  size: 3, 2
+  orig: 20, 20
+  offset: 8, 6
+  index: -1
+adventure arm1 upper
+  rotate: false
+  xy: 629, 839
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+adventure arm2 upper
+  rotate: false
+  xy: 638, 154
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+adventure armor front
+  rotate: false
+  xy: 336, 772
+  size: 60, 92
+  orig: 63, 94
+  offset: 2, 1
+  index: -1
+adventure leg1 lower
+  rotate: true
+  xy: 692, 137
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+adventure leg1 upper
+  rotate: false
+  xy: 530, 198
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+viking leg1 upper
+  rotate: false
+  xy: 530, 198
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+adventure leg2 lower
+  rotate: true
+  xy: 629, 816
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+adventure leg2 upper
+  rotate: true
+  xy: 562, 145
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+viking leg2 upper
+  rotate: true
+  xy: 562, 145
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+ancient axe
+  rotate: true
+  xy: 648, 529
+  size: 89, 93
+  orig: 95, 95
+  offset: 3, 1
+  index: -1
+arm1 lower
+  rotate: false
+  xy: 530, 154
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+arm1 upper
+  rotate: true
+  xy: 279, 124
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+arm2 lower
+  rotate: true
+  xy: 93, 2
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+arm2 upper
+  rotate: false
+  xy: 644, 105
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+armor leg1 lower
+  rotate: true
+  xy: 634, 53
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+armor leg1 upper
+  rotate: false
+  xy: 977, 573
+  size: 45, 53
+  orig: 53, 59
+  offset: 3, 4
+  index: -1
+armor leg2 lower
+  rotate: true
+  xy: 630, 31
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+armor leg2 upper
+  rotate: false
+  xy: 606, 136
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+battle axe
+  rotate: true
+  xy: 284, 645
+  size: 125, 103
+  orig: 125, 103
+  offset: 0, 0
+  index: -1
+black guardian
+  rotate: false
+  xy: 571, 426
+  size: 78, 91
+  orig: 78, 91
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 643, 224
+  size: 51, 73
+  orig: 51, 73
+  offset: 0, 0
+  index: -1
+bone arm1 lower
+  rotate: false
+  xy: 640, 79
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+bone arm1 upper
+  rotate: true
+  xy: 606, 105
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+bone arm2 lower
+  rotate: true
+  xy: 423, 97
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+bone arm2 upper
+  rotate: false
+  xy: 530, 118
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+bone armor front
+  rotate: true
+  xy: 571, 363
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+bone leg1 lower
+  rotate: false
+  xy: 669, 85
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+bone leg1 upper
+  rotate: false
+  xy: 240, 52
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+bone leg2 lower
+  rotate: false
+  xy: 782, 157
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+bone leg2 upper
+  rotate: false
+  xy: 312, 43
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+branch
+  rotate: false
+  xy: 276, 542
+  size: 113, 101
+  orig: 114, 102
+  offset: 0, 0
+  index: -1
+broken sword
+  rotate: false
+  xy: 740, 440
+  size: 88, 87
+  orig: 95, 95
+  offset: 4, 1
+  index: -1
+bronze arm1 lower
+  rotate: false
+  xy: 993, 808
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+bronze arm2 lower
+  rotate: false
+  xy: 240, 87
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+bronze arm2 upper
+  rotate: false
+  xy: 708, 2
+  size: 21, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+bronze armor front
+  rotate: false
+  xy: 948, 931
+  size: 74, 91
+  orig: 78, 96
+  offset: 4, 4
+  index: -1
+bronze helm front
+  rotate: false
+  xy: 2, 823
+  size: 179, 199
+  orig: 179, 204
+  offset: 0, 5
+  index: -1
+bronze leg1 lower
+  rotate: true
+  xy: 312, 16
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+bronze leg1 upper
+  rotate: false
+  xy: 279, 148
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+bronze leg2 lower
+  rotate: true
+  xy: 718, 190
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+bronze leg2 upper
+  rotate: true
+  xy: 979, 371
+  size: 21, 37
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+bronze shield
+  rotate: false
+  xy: 378, 244
+  size: 69, 66
+  orig: 69, 66
+  offset: 0, 0
+  index: -1
+bronze sword
+  rotate: false
+  xy: 398, 773
+  size: 114, 104
+  orig: 115, 105
+  offset: 0, 0
+  index: -1
+buckler
+  rotate: false
+  xy: 310, 240
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+chainmail arm1 lower
+  rotate: false
+  xy: 352, 152
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+chainmail arm1 upper
+  rotate: true
+  xy: 452, 109
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+chainmail arm2 lower
+  rotate: true
+  xy: 278, 20
+  size: 28, 32
+  orig: 29, 32
+  offset: 1, 0
+  index: -1
+chainmail arm2 upper
+  rotate: true
+  xy: 452, 86
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+chainmail armor front
+  rotate: true
+  xy: 310, 187
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1
+chainmail leg1 lower
+  rotate: true
+  xy: 868, 164
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+chainmail leg1 upper
+  rotate: false
+  xy: 345, 13
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+chainmail leg2 lower
+  rotate: true
+  xy: 241, 2
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+chainmail leg2 upper
+  rotate: true
+  xy: 832, 168
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+claymore
+  rotate: false
+  xy: 648, 620
+  size: 91, 93
+  orig: 95, 95
+  offset: 2, 1
+  index: -1
+cleaver axe
+  rotate: false
+  xy: 477, 572
+  size: 90, 94
+  orig: 95, 95
+  offset: 3, 1
+  index: -1
+cloak arm1 lower
+  rotate: false
+  xy: 278, 50
+  size: 32, 36
+  orig: 32, 37
+  offset: 0, 1
+  index: -1
+cloak arm1 upper
+  rotate: false
+  xy: 409, 13
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+cloak arm2 lower
+  rotate: false
+  xy: 352, 121
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+cloak arm2 upper
+  rotate: true
+  xy: 719, 136
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+cloak armor front
+  rotate: false
+  xy: 746, 712
+  size: 77, 102
+  orig: 77, 102
+  offset: 0, 0
+  index: -1
+cloak leg1 lower
+  rotate: true
+  xy: 656, 31
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+cloak leg1 upper
+  rotate: true
+  xy: 790, 216
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+cloak leg2 lower
+  rotate: true
+  xy: 868, 147
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+cloak leg2 upper
+  rotate: false
+  xy: 240, 162
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+crystal arm1 lower
+  rotate: false
+  xy: 409, 47
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+crystal arm1 upper
+  rotate: false
+  xy: 144, 782
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+crystal arm2 lower
+  rotate: true
+  xy: 381, 87
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+crystal arm2 upper
+  rotate: true
+  xy: 790, 185
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+crystal armor front
+  rotate: false
+  xy: 825, 622
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+crystal leg1 lower
+  rotate: true
+  xy: 523, 63
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+crystal leg1 upper
+  rotate: true
+  xy: 241, 21
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+crystal leg2 lower
+  rotate: false
+  xy: 468, 48
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+crystal leg2 upper
+  rotate: true
+  xy: 484, 120
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+dragon shield
+  rotate: false
+  xy: 741, 621
+  size: 82, 89
+  orig: 82, 89
+  offset: 0, 0
+  index: -1
+elven arm1 lower
+  rotate: false
+  xy: 468, 16
+  size: 26, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+elven arm1 upper
+  rotate: true
+  xy: 967, 265
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+elven arm2 lower
+  rotate: true
+  xy: 686, 53
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+elven arm2 upper
+  rotate: true
+  xy: 750, 159
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+elven armor front
+  rotate: false
+  xy: 884, 815
+  size: 62, 85
+  orig: 67, 90
+  offset: 4, 5
+  index: -1
+elven leg1 lower
+  rotate: false
+  xy: 524, 2
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+elven leg1 upper
+  rotate: true
+  xy: 435, 164
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+elven leg2 lower
+  rotate: false
+  xy: 669, 113
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+elven leg2 upper
+  rotate: false
+  xy: 167, 2
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+elven shield
+  rotate: false
+  xy: 569, 574
+  size: 77, 102
+  orig: 80, 103
+  offset: 1, 1
+  index: -1
+elven sword
+  rotate: false
+  xy: 629, 715
+  size: 115, 99
+  orig: 118, 102
+  offset: 2, 3
+  index: -1
+emerald blade
+  rotate: false
+  xy: 743, 529
+  size: 85, 90
+  orig: 95, 95
+  offset: 5, 2
+  index: -1
+excalibur
+  rotate: false
+  xy: 897, 224
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+face1
+  rotate: true
+  xy: 129, 132
+  size: 87, 60
+  orig: 120, 118
+  offset: 27, 22
+  index: -1
+face2
+  rotate: true
+  xy: 129, 221
+  size: 90, 48
+  orig: 120, 118
+  offset: 26, 22
+  index: -1
+face3
+  rotate: true
+  xy: 821, 350
+  size: 88, 61
+  orig: 120, 118
+  offset: 27, 15
+  index: -1
+face4
+  rotate: true
+  xy: 179, 225
+  size: 88, 61
+  orig: 120, 118
+  offset: 27, 15
+  index: -1
+face5
+  rotate: true
+  xy: 830, 525
+  size: 95, 48
+  orig: 120, 118
+  offset: 21, 22
+  index: -1
+face6
+  rotate: false
+  xy: 884, 371
+  size: 93, 62
+  orig: 120, 118
+  offset: 24, 22
+  index: -1
+female.adventure helm back
+  rotate: false
+  xy: 963, 140
+  size: 52, 51
+  orig: 52, 51
+  offset: 0, 0
+  index: -1
+female.armor front
+  rotate: false
+  xy: 966, 193
+  size: 53, 70
+  orig: 53, 70
+  offset: 0, 0
+  index: -1
+female.bronze arm1 upper
+  rotate: true
+  xy: 597, 31
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+female.elven helm back
+  rotate: false
+  xy: 808, 902
+  size: 138, 120
+  orig: 141, 120
+  offset: 3, 0
+  index: -1
+female.elven helm front
+  rotate: false
+  xy: 2, 36
+  size: 125, 134
+  orig: 125, 134
+  offset: 0, 0
+  index: -1
+female.helm
+  rotate: true
+  xy: 2, 172
+  size: 139, 125
+  orig: 142, 125
+  offset: 0, 0
+  index: -1
+female.hunter armor front
+  rotate: true
+  xy: 449, 243
+  size: 62, 70
+  orig: 65, 70
+  offset: 1, 0
+  index: -1
+female.hunter helm back
+  rotate: false
+  xy: 144, 546
+  size: 130, 102
+  orig: 166, 111
+  offset: 28, 2
+  index: -1
+female.hunter helm front
+  rotate: true
+  xy: 2, 467
+  size: 152, 137
+  orig: 152, 141
+  offset: 0, 4
+  index: -1
+fenrir's fang
+  rotate: true
+  xy: 477, 483
+  size: 87, 90
+  orig: 95, 95
+  offset: 3, 2
+  index: -1
+gladius
+  rotate: false
+  xy: 653, 347
+  size: 87, 88
+  orig: 95, 95
+  offset: 4, 3
+  index: -1
+golden arm1 lower
+  rotate: false
+  xy: 690, 194
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+golden arm1 upper
+  rotate: false
+  xy: 692, 162
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+golden arm2 lower
+  rotate: false
+  xy: 654, 2
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+golden arm2 upper
+  rotate: true
+  xy: 560, 56
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+golden armor front
+  rotate: false
+  xy: 977, 628
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+golden leg1 lower
+  rotate: false
+  xy: 692, 76
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+golden leg1 upper
+  rotate: true
+  xy: 52, 2
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+golden leg2 lower
+  rotate: true
+  xy: 683, 31
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+golden leg2 upper
+  rotate: false
+  xy: 191, 2
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+great axe
+  rotate: false
+  xy: 477, 390
+  size: 92, 91
+  orig: 95, 95
+  offset: 1, 2
+  index: -1
+head
+  rotate: true
+  xy: 270, 420
+  size: 120, 114
+  orig: 120, 114
+  offset: 0, 0
+  index: -1
+hellbound
+  rotate: true
+  xy: 881, 611
+  size: 86, 94
+  orig: 95, 95
+  offset: 4, 0
+  index: -1
+hunter arm1 lower
+  rotate: false
+  xy: 981, 710
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+hunter arm1 upper
+  rotate: true
+  xy: 782, 133
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+hunter arm2 lower
+  rotate: true
+  xy: 242, 199
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+hunter arm2 upper
+  rotate: false
+  xy: 659, 194
+  size: 29, 28
+  orig: 32, 28
+  offset: 2, 0
+  index: -1
+hunter axe
+  rotate: true
+  xy: 883, 699
+  size: 114, 96
+  orig: 119, 98
+  offset: 2, 2
+  index: -1
+hunter leg1 lower
+  rotate: false
+  xy: 437, 2
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+hunter leg1 upper
+  rotate: false
+  xy: 981, 762
+  size: 41, 44
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+hunter leg2 lower
+  rotate: false
+  xy: 981, 699
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+hunter leg2 upper
+  rotate: true
+  xy: 2, 2
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+hunter wooden barrel shield
+  rotate: true
+  xy: 948, 852
+  size: 77, 74
+  orig: 77, 74
+  offset: 0, 0
+  index: -1
+knight arm1 lower
+  rotate: true
+  xy: 310, 155
+  size: 30, 40
+  orig: 31, 42
+  offset: 0, 1
+  index: -1
+knight arm1 upper
+  rotate: true
+  xy: 562, 83
+  size: 25, 37
+  orig: 26, 37
+  offset: 1, 0
+  index: -1
+knight arm2 lower
+  rotate: false
+  xy: 376, 49
+  size: 31, 36
+  orig: 34, 40
+  offset: 1, 2
+  index: -1
+knight arm2 upper
+  rotate: true
+  xy: 714, 31
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+knight armor front
+  rotate: false
+  xy: 129, 49
+  size: 65, 81
+  orig: 68, 84
+  offset: 1, 3
+  index: -1
+knight helm front
+  rotate: true
+  xy: 508, 881
+  size: 141, 146
+  orig: 156, 161
+  offset: 8, 9
+  index: -1
+knight leg1 lower
+  rotate: false
+  xy: 312, 81
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+knight leg1 upper
+  rotate: true
+  xy: 343, 87
+  size: 32, 36
+  orig: 34, 36
+  offset: 2, 0
+  index: -1
+knight leg2 lower
+  rotate: false
+  xy: 423, 124
+  size: 27, 38
+  orig: 29, 38
+  offset: 2, 0
+  index: -1
+knight leg2 upper
+  rotate: true
+  xy: 601, 79
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+knight shield
+  rotate: true
+  xy: 776, 816
+  size: 83, 106
+  orig: 83, 106
+  offset: 0, 0
+  index: -1
+knight sword
+  rotate: false
+  xy: 514, 775
+  size: 113, 104
+  orig: 116, 105
+  offset: 1, 0
+  index: -1
+kozane arm1 lower
+  rotate: false
+  xy: 496, 21
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+kozane arm1 upper
+  rotate: true
+  xy: 552, 2
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+kozane arm2 lower
+  rotate: false
+  xy: 492, 57
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+kozane arm2 upper
+  rotate: false
+  xy: 435, 52
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+kozane armor front
+  rotate: false
+  xy: 565, 283
+  size: 86, 78
+  orig: 88, 80
+  offset: 0, 2
+  index: -1
+kozane helm front
+  rotate: false
+  xy: 349, 879
+  size: 157, 143
+  orig: 157, 143
+  offset: 0, 0
+  index: -1
+kozane leg1 lower
+  rotate: false
+  xy: 802, 159
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+kozane leg1 upper
+  rotate: false
+  xy: 484, 145
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+kozane leg2 lower
+  rotate: false
+  xy: 743, 31
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+kozane leg2 upper
+  rotate: false
+  xy: 562, 173
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+large shield
+  rotate: false
+  xy: 832, 262
+  size: 63, 86
+  orig: 63, 86
+  offset: 0, 0
+  index: -1
+leather amor front
+  rotate: true
+  xy: 391, 487
+  size: 60, 84
+  orig: 61, 85
+  offset: 1, 1
+  index: -1
+leather arm1 lower
+  rotate: true
+  xy: 718, 56
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+leather arm1 upper
+  rotate: true
+  xy: 752, 183
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+leather arm2 lower
+  rotate: false
+  xy: 731, 3
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+leather arm2 upper
+  rotate: true
+  xy: 718, 80
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+leather leg1 lower
+  rotate: true
+  xy: 524, 37
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+leather leg1 upper
+  rotate: true
+  xy: 948, 815
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+leather leg2 lower
+  rotate: true
+  xy: 521, 243
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+leather leg2 upper
+  rotate: true
+  xy: 484, 92
+  size: 26, 38
+  orig: 29, 39
+  offset: 0, 1
+  index: -1
+leg1 lower
+  rotate: true
+  xy: 597, 53
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+leg1 upper
+  rotate: false
+  xy: 344, 47
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+leg2 lower
+  rotate: false
+  xy: 629, 681
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1
+leg2 upper
+  rotate: false
+  xy: 217, 2
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+light protector
+  rotate: false
+  xy: 242, 231
+  size: 66, 79
+  orig: 70, 80
+  offset: 2, 1
+  index: -1
+makhaira
+  rotate: true
+  xy: 376, 312
+  size: 85, 92
+  orig: 95, 95
+  offset: 4, 1
+  index: -1
+male.adventure helm front
+  rotate: true
+  xy: 141, 420
+  size: 124, 127
+  orig: 124, 128
+  offset: 0, 0
+  index: -1
+male.armor front
+  rotate: false
+  xy: 967, 298
+  size: 55, 71
+  orig: 55, 71
+  offset: 0, 0
+  index: -1
+male.bronze arm1 upper
+  rotate: false
+  xy: 437, 16
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+male.elven helm back
+  rotate: false
+  xy: 748, 264
+  size: 82, 83
+  orig: 82, 83
+  offset: 0, 0
+  index: -1
+male.elven helm front
+  rotate: false
+  xy: 656, 901
+  size: 150, 121
+  orig: 150, 121
+  offset: 0, 0
+  index: -1
+male.helm
+  rotate: false
+  xy: 144, 650
+  size: 138, 120
+  orig: 138, 124
+  offset: 0, 4
+  index: -1
+male.hunter armor front
+  rotate: false
+  xy: 832, 191
+  size: 62, 69
+  orig: 65, 70
+  offset: 1, 0
+  index: -1
+male.hunter helm back
+  rotate: true
+  xy: 386, 399
+  size: 86, 89
+  orig: 86, 89
+  offset: 0, 0
+  index: -1
+mamoru
+  rotate: false
+  xy: 466, 668
+  size: 97, 103
+  orig: 97, 103
+  offset: 0, 0
+  index: -1
+masamune
+  rotate: true
+  xy: 825, 710
+  size: 104, 56
+  orig: 104, 58
+  offset: 0, 2
+  index: -1
+offensive arm1 lower
+  rotate: true
+  xy: 496, 2
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+offensive arm1 upper
+  rotate: false
+  xy: 919, 143
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+offensive arm2 lower
+  rotate: true
+  xy: 846, 149
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+offensive arm2 upper
+  rotate: false
+  xy: 290, 3
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+offensive armor front
+  rotate: true
+  xy: 569, 519
+  size: 53, 77
+  orig: 53, 77
+  offset: 0, 0
+  index: -1
+offensive leg1 lower
+  rotate: true
+  xy: 718, 163
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+offensive leg2 lower
+  rotate: true
+  xy: 750, 135
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+paladin arm1 lower
+  rotate: true
+  xy: 381, 144
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+paladin arm1 upper
+  rotate: false
+  xy: 435, 193
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+paladin arm2 lower
+  rotate: true
+  xy: 381, 115
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+paladin arm2 upper
+  rotate: false
+  xy: 484, 191
+  size: 44, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+paladin armor front
+  rotate: false
+  xy: 389, 658
+  size: 75, 112
+  orig: 75, 112
+  offset: 0, 0
+  index: -1
+paladin helm front
+  rotate: false
+  xy: 183, 866
+  size: 164, 156
+  orig: 164, 156
+  offset: 0, 0
+  index: -1
+paladin leg1 lower
+  rotate: false
+  xy: 132, 2
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+paladin leg1 upper
+  rotate: true
+  xy: 602, 221
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+paladin leg2 lower
+  rotate: false
+  xy: 284, 189
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+paladin leg2 upper
+  rotate: false
+  xy: 276, 88
+  size: 34, 34
+  orig: 37, 39
+  offset: 3, 0
+  index: -1
+plate arm1 lower
+  rotate: false
+  xy: 780, 108
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+plate arm1 upper
+  rotate: true
+  xy: 750, 107
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+plate arm2 lower
+  rotate: false
+  xy: 803, 134
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+plate arm2 upper
+  rotate: false
+  xy: 719, 106
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+plate armor front
+  rotate: true
+  xy: 718, 211
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+plate leg1 lower
+  rotate: false
+  xy: 824, 144
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+plate leg1 upper
+  rotate: true
+  xy: 979, 394
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+plate leg2 lower
+  rotate: true
+  xy: 269, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+plate leg2 upper
+  rotate: true
+  xy: 313, 122
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+royal shield
+  rotate: false
+  xy: 391, 549
+  size: 84, 107
+  orig: 84, 107
+  offset: 0, 0
+  index: -1
+rune sword
+  rotate: true
+  xy: 470, 307
+  size: 81, 93
+  orig: 95, 95
+  offset: 5, 1
+  index: -1
+save the queen
+  rotate: false
+  xy: 183, 772
+  size: 151, 92
+  orig: 151, 92
+  offset: 0, 0
+  index: -1
+scimitar
+  rotate: true
+  xy: 880, 525
+  size: 84, 94
+  orig: 95, 95
+  offset: 4, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 565, 261
+  size: 76, 20
+  orig: 76, 20
+  offset: 0, 0
+  index: -1
+silver plate arm1 lower
+  rotate: false
+  xy: 635, 185
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+silver plate arm1 upper
+  rotate: false
+  xy: 600, 173
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+silver plate arm2 lower
+  rotate: true
+  xy: 560, 31
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+silver plate arm2 upper
+  rotate: false
+  xy: 376, 14
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+silver plate armor front
+  rotate: false
+  xy: 191, 137
+  size: 47, 86
+  orig: 47, 86
+  offset: 0, 0
+  index: -1
+silver plate leg1 lower
+  rotate: true
+  xy: 659, 167
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+silver plate leg1 upper
+  rotate: false
+  xy: 452, 132
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+silver plate leg2 lower
+  rotate: false
+  xy: 664, 53
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+silver plate leg2 upper
+  rotate: true
+  xy: 586, 2
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+tower shield
+  rotate: false
+  xy: 565, 678
+  size: 62, 95
+  orig: 64, 95
+  offset: 0, 0
+  index: -1
+venom edge
+  rotate: false
+  xy: 742, 349
+  size: 77, 89
+  orig: 95, 95
+  offset: 5, 1
+  index: -1
+viking arm1 lower
+  rotate: false
+  xy: 682, 2
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+viking arm1 upper
+  rotate: false
+  xy: 240, 125
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+viking arm2 lower
+  rotate: false
+  xy: 755, 3
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+viking armor front
+  rotate: true
+  xy: 653, 277
+  size: 68, 93
+  orig: 68, 93
+  offset: 0, 0
+  index: -1
+viking axe
+  rotate: false
+  xy: 656, 816
+  size: 118, 83
+  orig: 118, 83
+  offset: 0, 0
+  index: -1
+viking helm front
+  rotate: true
+  xy: 2, 621
+  size: 200, 140
+  orig: 200, 140
+  offset: 0, 0
+  index: -1
+viking leg1 lower
+  rotate: true
+  xy: 620, 2
+  size: 27, 32
+  orig: 27, 33
+  offset: 0, 1
+  index: -1
+viking leg2 lower
+  rotate: false
+  xy: 692, 107
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+viking shield
+  rotate: false
+  xy: 897, 287
+  size: 68, 82
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+warrior sword
+  rotate: false
+  xy: 651, 437
+  size: 87, 90
+  orig: 95, 95
+  offset: 4, 1
+  index: -1
+white hawk arm1 lower
+  rotate: true
+  xy: 659, 143
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+white hawk arm1 upper
+  rotate: false
+  xy: 521, 263
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+white hawk arm2 lower
+  rotate: true
+  xy: 524, 90
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+white hawk arm2 upper
+  rotate: false
+  xy: 976, 525
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+white hawk armor front
+  rotate: false
+  xy: 381, 173
+  size: 52, 69
+  orig: 55, 70
+  offset: 3, 1
+  index: -1
+white hawk helm front
+  rotate: false
+  xy: 2, 313
+  size: 128, 152
+  orig: 128, 152
+  offset: 0, 0
+  index: -1
+white hawk leg1 lower
+  rotate: false
+  xy: 894, 143
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+white hawk leg1 upper
+  rotate: false
+  xy: 562, 217
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+white hawk leg2 lower
+  rotate: false
+  xy: 939, 143
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+white hawk leg2 upper
+  rotate: true
+  xy: 562, 110
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+white wings
+  rotate: false
+  xy: 196, 53
+  size: 42, 82
+  orig: 42, 82
+  offset: 0, 0
+  index: -1
+woodcutter
+  rotate: false
+  xy: 132, 315
+  size: 123, 103
+  orig: 123, 103
+  offset: 0, 0
+  index: -1
+wooden shield
+  rotate: true
+  xy: 896, 164
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+wooden sword
+  rotate: false
+  xy: 257, 312
+  size: 117, 106
+  orig: 119, 108
+  offset: 1, 2
+  index: -1
+xiphos
+  rotate: true
+  xy: 830, 442
+  size: 81, 91
+  orig: 95, 95
+  offset: 7, 2
+  index: -1

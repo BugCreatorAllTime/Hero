@@ -1,0 +1,174 @@
+
+skeleton.png
+size: 504,504
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skel/1
+  rotate: true
+  xy: 2, 91
+  size: 102, 77
+  orig: 102, 77
+  offset: 0, 0
+  index: -1
+skel/10
+  rotate: false
+  xy: 86, 196
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+skel/11
+  rotate: true
+  xy: 119, 385
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+skel/12
+  rotate: true
+  xy: 2, 2
+  size: 87, 80
+  orig: 87, 80
+  offset: 0, 0
+  index: -1
+skel/13
+  rotate: false
+  xy: 109, 347
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+skel/3
+  rotate: true
+  xy: 144, 345
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+skel/5
+  rotate: true
+  xy: 350, 422
+  size: 82, 94
+  orig: 82, 94
+  offset: 0, 0
+  index: -1
+skel/5b
+  rotate: false
+  xy: 2, 195
+  size: 82, 98
+  orig: 82, 100
+  offset: 0, 2
+  index: -1
+skel/6
+  rotate: false
+  xy: 109, 311
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+skel/7
+  rotate: true
+  xy: 206, 390
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+skel/8
+  rotate: true
+  xy: 236, 441
+  size: 63, 112
+  orig: 63, 112
+  offset: 0, 0
+  index: -1
+skel/9
+  rotate: false
+  xy: 120, 268
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+zom/1
+  rotate: false
+  xy: 104, 233
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+zom/2
+  rotate: false
+  xy: 171, 390
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+zom/3
+  rotate: false
+  xy: 446, 422
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+zom/5
+  rotate: false
+  xy: 2, 400
+  size: 115, 104
+  orig: 115, 104
+  offset: 0, 0
+  index: -1
+zom/7
+  rotate: false
+  xy: 2, 295
+  size: 105, 103
+  orig: 105, 103
+  offset: 0, 0
+  index: -1
+zom/8
+  rotate: false
+  xy: 104, 263
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+zom/9
+  rotate: false
+  xy: 173, 355
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+zom/handleft1
+  rotate: true
+  xy: 109, 295
+  size: 14, 37
+  orig: 16, 37
+  offset: 2, 0
+  index: -1
+zom/handleft2
+  rotate: true
+  xy: 206, 354
+  size: 34, 24
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+zom/righthand1
+  rotate: false
+  xy: 144, 312
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+zom/righthand2
+  rotate: false
+  xy: 119, 430
+  size: 115, 74
+  orig: 122, 74
+  offset: 7, 0
+  index: -1
+zom/shadow
+  rotate: true
+  xy: 86, 232
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1

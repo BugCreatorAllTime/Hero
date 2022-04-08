@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 476,476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mokney/0
+  rotate: false
+  xy: 167, 345
+  size: 41, 44
+  orig: 41, 44
+  offset: 0, 0
+  index: -1
+mokney/1
+  rotate: false
+  xy: 167, 391
+  size: 125, 85
+  orig: 125, 85
+  offset: 0, 0
+  index: -1
+mokney/10
+  rotate: false
+  xy: 210, 360
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+mokney/11
+  rotate: false
+  xy: 2, 36
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+mokney/13
+  rotate: false
+  xy: 167, 303
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+mokney/5
+  rotate: false
+  xy: 2, 325
+  size: 163, 151
+  orig: 163, 151
+  offset: 0, 0
+  index: -1
+mokney/5b
+  rotate: false
+  xy: 2, 172
+  size: 163, 151
+  orig: 163, 151
+  offset: 0, 0
+  index: -1
+mokney/6
+  rotate: false
+  xy: 2, 2
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+mokney/7
+  rotate: false
+  xy: 294, 423
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+mokney/8
+  rotate: false
+  xy: 2, 79
+  size: 58, 91
+  orig: 58, 92
+  offset: 0, 1
+  index: -1
+mokney/righthand1
+  rotate: false
+  xy: 62, 130
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+zom/shadow
+  rotate: false
+  xy: 294, 460
+  size: 61, 16
+  orig: 61, 16
+  offset: 0, 0
+  index: -1

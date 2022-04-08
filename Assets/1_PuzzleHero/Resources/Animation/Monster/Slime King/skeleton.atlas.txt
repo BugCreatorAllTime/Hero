@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 510,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 208
+  size: 205, 149
+  orig: 237, 173
+  offset: 16, 13
+  index: -1
+crown
+  rotate: false
+  xy: 378, 381
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 211, 443
+  size: 165, 67
+  orig: 237, 173
+  offset: 46, 55
+  index: -1
+face2
+  rotate: true
+  xy: 2, 2
+  size: 164, 63
+  orig: 237, 173
+  offset: 47, 64
+  index: -1
+face3
+  rotate: false
+  xy: 211, 379
+  size: 165, 62
+  orig: 237, 173
+  offset: 46, 55
+  index: -1
+poison slime/body
+  rotate: false
+  xy: 2, 359
+  size: 207, 151
+  orig: 207, 151
+  offset: 0, 0
+  index: -1
+poison slime/crown
+  rotate: false
+  xy: 435, 381
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+poison slime/face1
+  rotate: false
+  xy: 67, 103
+  size: 125, 63
+  orig: 125, 63
+  offset: 0, 0
+  index: -1
+poison slime/face2
+  rotate: false
+  xy: 378, 442
+  size: 124, 68
+  orig: 124, 68
+  offset: 0, 0
+  index: -1
+poison slime/face3
+  rotate: false
+  xy: 67, 34
+  size: 121, 67
+  orig: 121, 67
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 168
+  size: 194, 38
+  orig: 194, 38
+  offset: 0, 0
+  index: -1
